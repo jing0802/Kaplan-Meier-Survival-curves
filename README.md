@@ -6,12 +6,10 @@ Here, I will use the `survfit()` function in `survival` package to estimate surv
 
 ## Install and Load R packages
 
-  <img width="390" alt="Screen Shot 2023-01-11 at 10 12 28 PM" src="https://user-images.githubusercontent.com/100873921/211974903-838f53c0-58dd-486a-a99b-dca94e75e4e3.png">
+ <img width="322" alt="Screen Shot 2023-01-11 at 11 50 44 PM" src="https://user-images.githubusercontent.com/100873921/211988029-7477f069-6b16-4fae-a386-30b399799ca2.png">
 
-# Load Data
-Here, I will use the **lung** dataset of the survival package to demonstrate.
-
-head(lung,5) 
+## Load Data
+Here, I will use the **lung** dataset of the `survival` package to demonstrate.
 
 
 
