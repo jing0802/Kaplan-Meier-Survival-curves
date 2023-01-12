@@ -1,1 +1,1 @@
-# KM-SurvivalCurvesPlot
+# KaplanMeier-Plot
